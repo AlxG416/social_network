@@ -1,0 +1,23 @@
+.message {
+    display: flex;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+}
+.message:hover {
+    background-color: rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+/* .addressee-photo {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    border-radius: 3px;
+} */
+/* .message__content {
+    
+}
+.message__last-message {
+
+} */

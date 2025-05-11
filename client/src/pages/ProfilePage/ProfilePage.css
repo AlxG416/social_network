@@ -1,0 +1,9 @@
+/* .posts-block {
+    
+} */
+.posts-controllers {
+    display: flex;
+}
+.list>div[class='post'] {
+    margin-bottom: 15px;
+}
