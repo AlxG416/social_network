@@ -8,7 +8,7 @@ var ChatPage: React.FC = () => {
     return (
         <>
             <div className="chat-top">
-                <div>Влад Корнюшончик</div>
+                <div>Евгений Белов</div>
                 <div>В сети</div>
                 <div style={{textAlign: 'end'}}>
                     <MenuOutlined />
@@ -17,28 +17,16 @@ var ChatPage: React.FC = () => {
             <div className="chat-middle">
                 <div className="list">
                     <div className="chat__message chat__message_sended">
-                        Я вчера ущипнул Машку за ляшку!
+                        Привет!
                     </div>
                     <div className="chat__message chat__message_received">
-                        Ничего себе какой смелый! Хех :-)
+                        Привет Игорь!
                     </div>
                     <div className="chat__message chat__message_sended">
-                        Мне понравилось
+                        Как твои дела?
                     </div>
                     <div className="chat__message chat__message_received">
-                        Ещё бы. Что делаешь?
-                    </div>
-                    <div className="chat__message chat__message_sended">
-                        Ничего!!! Я вообще никогда ничего не делаю, я самый настоящий бездельник!!! ИИИУуУ
-                    </div>
-                    <div className="chat__message chat__message_received">
-                        Пойдём погуляем чтоль?
-                    </div>
-                    <div className="chat__message chat__message_sended">
-                        Погнали!
-                    </div>
-                    <div className="chat__message chat__message_received">
-                        Давай, выходи. Уже 20 минут жду тебя!!!!!!
+                        Вот приехали из деревни. А ты как?
                     </div>
                 </div>
             </div>
